@@ -42,7 +42,7 @@ AddEventHandler("main", "OnBeforeProlog", function () {
 });
 
 5) Создать элементы в инфоблоке, созданном 1 шаге. Символьный код элемента должен быть равен URL страницы (например, /about/).
-6) На странице (например, /about/index.php) вызвать \Itech\Page::getInstance()->getData()
+6) На странице (например, /about/index.php) вызвать \Asteq\Page::getInstance()->getData()
 
 # Установка модуля
 
